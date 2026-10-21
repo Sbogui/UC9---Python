@@ -1,0 +1,11 @@
+Formulário 1: Registrar empréstimo (dados mínimos)
+
+Código do produto: [A1-001          ]       
+Descrição:         [Computador Gamer]
+Quantidade:        [1               ]
+
+Formulário 2: Registrar empréstimo (com dados do operador)
+Nome:        [ Pessoa Ficticia   ]
+CPF:         [ 000.000.000-00    ]
+Telefone:    [ (00) 00000-0000   ]
+Endereço:    [ Rua Ficticia, 0   ]
